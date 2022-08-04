@@ -1,0 +1,13 @@
+baseURL: 'https://upthe.town/'
+title: 'Up The Town'
+theme: 'lugo'
+
+defaultContentLanguage: en
+languages:
+  en:
+    languageName: English
+    weight: 1
+
+  cy:
+    languageName: Cymraeg
+    weight: 2
