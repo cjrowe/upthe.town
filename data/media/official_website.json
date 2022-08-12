@@ -1,0 +1,8 @@
+{
+  "name": "Official Website",
+  "description": "Official Club Website",
+  "official": true,
+  "links": {
+    "website": "https://www.wrexhamafc.co.uk"
+  }
+}
