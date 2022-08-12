@@ -1,0 +1,10 @@
+<table>
+    <tr>
+        <th>{{ i18n "player_name" }}</th>
+        <th>{{ i18n "player_position" }}</th>
+        <th>{{ i18n "player_squad_number" }}</th>
+    </tr>
+    {{ range $.Site.Data.players }}
+    {{ partial "player_row.html" . }}
+    {{ end }}
+</table>
