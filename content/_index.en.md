@@ -4,19 +4,17 @@ draft: false
 ---
 {{<welcome>}}
 
-# Official Sites
-
-{{<official_site_list type="website">}}
-
 # Websites
 
-{{<unofficial_site_list type="website">}}
+{{<site_list type="website">}}
 
 # Blogs
 
-# Audio
+{{<site_list type="blog">}}
 
-{{<unofficial_site_list type="podcast">}}
+# Podcasts
+
+{{<site_list type="podcast">}}
 
 # Video
 

@@ -1,9 +1,0 @@
-<ul>
-    {{$type := .Get "type"}}
-    {{ range  $.Site.Data.media  }}
-    {{ $url := index .links $type }}
-    {{ if and (.official) ($url) }}
-    <li><a href="{{index .links $type}}">{{ .name }}</a></li>
-    {{ end }}
-    {{ end }}
-</ul>

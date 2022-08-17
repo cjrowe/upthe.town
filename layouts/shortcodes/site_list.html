@@ -1,0 +1,10 @@
+<dl>
+    {{$type := .Get "type"}}
+    {{ range  $.Site.Data.media  }}
+    {{ $url := index .links $type }}
+    {{ if ($url) }}
+    <dt><a href="{{index .links $type}}">{{ .name }}</a> {{ if .official }}** Official Site **{{ end }}</dt>
+    <dd>{{ .description }}</dd>
+    {{ end }}
+    {{ end }}
+</dl>
