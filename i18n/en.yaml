@@ -1,4 +1,10 @@
+# Main Page
 welcome: "Welcome"
+official_website: "Official Website"
+club_shop: "Club Shop"
+ticketing: "Ticketing"
+
+# Player Details
 player_name: "Name"
 player_position: "Position"
 player_squad_number: "Squad Number"
