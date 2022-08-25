@@ -2,7 +2,7 @@
 title: Red Passion
 link: http://www.redpassion.co.uk
 
-Media:
+media:
 - Message Board
 ---
 Unofficial message board (cy)

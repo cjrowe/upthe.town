@@ -1,6 +1,6 @@
 ---
 title: Chips for a Quid
 
-Media:
+media:
 - Blog
 ---

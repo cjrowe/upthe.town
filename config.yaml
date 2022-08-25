@@ -13,7 +13,7 @@ languages:
     weight: 2
 
 taxonomies:
-  Media: Media
-  Player: Players
-  Match: Matches
-  Season: Seasons
+  media: media
+  player: players
+  match: matches
+  season: seasons

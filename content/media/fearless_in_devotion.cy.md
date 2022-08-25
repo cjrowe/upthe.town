@@ -1,7 +1,7 @@
 ---
 title: Fearless In Devotion
 
-Media:
+media:
 - Blog
 - Podcast
 ---
