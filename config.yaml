@@ -1,6 +1,6 @@
 baseURL: 'https://upthe.town/'
 title: 'Up The Town'
-theme: 'lugo'
+theme: 'utst'
 
 defaultContentLanguage: en
 languages:
@@ -11,3 +11,9 @@ languages:
   cy:
     languageName: Cymraeg
     weight: 2
+
+taxonomies:
+  Media: Media
+  Player: Players
+  Match: Matches
+  Season: Seasons
