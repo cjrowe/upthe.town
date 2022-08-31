@@ -8,11 +8,3 @@ draft: false
 
 {{<official_sites>}}
 
-# Websites
-
-# Blogs
-
-# Podcasts
-
-# Video
-

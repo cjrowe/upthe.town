@@ -7,11 +7,3 @@ draft: false
 # Official Sites
 
 {{<official_sites>}}
-
-# Websites
-
-# Blogs
-
-# Podcasts
-
-# Video

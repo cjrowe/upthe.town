@@ -1,4 +1,4 @@
-{{ partial "header.html" . -}}
+{{ define "main" }}
 <header><h1 id="tag_{{ .Title }}">{{ .Title | title }}</h1></header>
 <article>
 {{ .Content -}}
@@ -8,4 +8,4 @@
 {{ end -}}
 </ul>
 </article>
-{{- partial "footer.html" . }}
+{{ end }}

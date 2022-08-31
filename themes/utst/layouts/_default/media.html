@@ -1,0 +1,7 @@
+{{ define "main" }}
+<header><h1>Media: {{ .Title }}</h1></header>
+{{ partial "taglist.html" . }}
+<article>
+    {{ .Content -}}
+</article>
+{{ end }}
