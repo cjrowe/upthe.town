@@ -2,6 +2,20 @@
 <header><h1>Media: {{ .Title }}</h1></header>
 {{ partial "taglist.html" . }}
 <article>
+    <h2>Description</h2>
     {{ .Content -}}
+
+    <h2>People</h2>
+    {{ $taxo := "people" }}
+    {{ with .Param $taxo }}
+    <ul>
+    {{ range $index, $person := . }}
+        <li>{{$person}}</li>
+    {{- end -}}
+    </ul>
+    {{ end }}
+
+    <h2>Links</h2>
+
 </article>
 {{ end }}

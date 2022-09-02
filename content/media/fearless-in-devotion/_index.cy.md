@@ -6,4 +6,10 @@ tags:
 - Blogs
 - Podcasts
 - Fanzines
+
+people:
+- Liam Randall
+- Tim Edwards
+- Andy Gilpin
+- Rhys Williams
 ---
