@@ -16,6 +16,6 @@
     {{ end }}
 
     <h2>Links</h2>
-
+    {{ (index .Site.Data.media .Page.Params.details).links.website }}
 </article>
 {{ end }}

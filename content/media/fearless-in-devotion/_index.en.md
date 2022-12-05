@@ -1,6 +1,8 @@
 ---
 title: Fearless In Devotion
 
+details: "fearless-in-devotion"
+
 tags:
 - Websites
 - Blogs
